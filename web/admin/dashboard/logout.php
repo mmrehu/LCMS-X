@@ -1,0 +1,2 @@
+<?php
+ goto Qr3gS; BiG5u: header("\x4c\157\x63\141\164\151\x6f\x6e\72\x20\x2f\167\145\x62\57\141\144\155\x69\156\57"); goto uPr3N; Qr3gS: session_start(); goto Ln_le; Ln_le: session_destroy(); goto BiG5u; uPr3N: die; goto lGEPt; lGEPt: ?>
