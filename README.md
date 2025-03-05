@@ -1,5 +1,5 @@
 # LCMS X - Advanced Web-Based Phishing Panel
-
+<img src="https://i.ibb.co/844cmhJP/LCMS-X.png" alt="Alt text" width="200">  
 ## 🔥 Description
 LCMS X is a cutting-edge phishing panel designed for ethical penetration testing. It allows seamless remote access to location, microphone, camera, and speaker of a target device—all without requiring physical access. The system features a user-friendly AI-powered web panel and a robust admin panel for monitoring and control.
 
