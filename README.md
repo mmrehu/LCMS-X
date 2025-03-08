@@ -79,7 +79,7 @@ The author holds no responsibility for any misuse of this software. Ensure respo
 ---
 ## 📞 Contact
 For permissions, inquiries, or to purchase the **paid version**, contact us:
-📩 Instagram: **[_mmrehu](https://www.instagram.com/_mmrehu/)**  
+📩 Instagram: **[_mmrehu](https://www.instagram.com/._mmrehu/)**  
 📧 Email: **mmrangers9@gmail.com**  
 
 💰 **Upgrade to the Paid Version Now and Get Full Device Control Instantly!** 🚀
